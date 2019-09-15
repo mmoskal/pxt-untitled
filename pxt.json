@@ -6,7 +6,8 @@
     "description": "",
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "newfile.ts"
     ],
     "preferredEditor": "tsprj",
     "version": "0.0.2"

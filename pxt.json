@@ -1,12 +1,13 @@
 {
-    "name": "Untitled",
+    "name": "some prj",
     "dependencies": {
         "device": "*"
     },
     "description": "",
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "anotherfile.ts"
     ],
     "preferredEditor": "tsprj",
     "version": "0.0.2"

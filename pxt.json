@@ -8,6 +8,9 @@
         "main.ts",
         "README.md"
     ],
+    "testFiles": [
+        "test.ts"
+    ],
     "preferredEditor": "tsprj",
     "version": "0.0.2"
 }
